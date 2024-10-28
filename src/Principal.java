@@ -12,6 +12,8 @@ public class Principal {
 		String raza;
 		float precio;
 		
+		System.out.println("come frutas y verduras");
+		
 		Mascotas mascotas = null;
 		
 		int menuPrin, subMenu;
